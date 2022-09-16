@@ -5,4 +5,4 @@ A simple splash screen for plasma kde that shows a running quagsire
 
 ## Installation
 
-To install just clone this directory into .local/share/plasma/look-and-feel
+To install just clone this project into .local/share/plasma/look-and-feel
