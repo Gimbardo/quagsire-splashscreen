@@ -1,5 +1,5 @@
 # quagsire-splashscreen
-A simple splash screen for plasma kde that shows a running quagsire
+A simple splash screen for plasma kde that shows a **gif** of a running quagsire
 
 ![Image](contents/previews/splash.png)
 
